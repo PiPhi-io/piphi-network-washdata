@@ -133,6 +133,15 @@
       }
     }
   ],
+  "ui": {
+    "experience_packages": [
+      {
+        "registry_id": "io.piphi.washdata-status",
+        "version_range": ">=0.1,<1",
+        "auto_install": true
+      }
+    ]
+  },
   "marketplace": {
     "metadata_version": 2,
     "display_name": "WashData",
