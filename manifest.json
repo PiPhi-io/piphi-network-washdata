@@ -207,5 +207,8 @@
     "connectivity": "hybrid",
     "offline_support": "partial",
     "privacy_url": "https://github.com/PiPhi-io/piphi-network-washdata/blob/main/docs/privacy.md"
+  },
+  "onboarding": {
+    "mode": "manual"
   }
 }
